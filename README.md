@@ -1,5 +1,11 @@
 # C++ Programs (Random Programs for learners)
 
+## Armstrong Number
+Check whether a given number is Armstrong number or not. 
+An Armstrong number of three digits is an integer such that the sum of the cubes of its digits is equal to the number itself.
+ie: 153. 
+1^3 + 5^3 + 3^3 = 153
+
 ## Fibonacci Series
 Display Fibonacci series upto given limit.
 
