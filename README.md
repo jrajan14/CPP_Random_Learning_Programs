@@ -15,5 +15,8 @@ This program also includes useful information abour Leap year in general, along 
 
 NOTE : This is one of the logics (a simple one) there are other ways too.
 
+## Number Swapping
+Swap two integers without using Third variable
+
 ## Prime Number Check
 Check whether a given positive number is Prime or not.
