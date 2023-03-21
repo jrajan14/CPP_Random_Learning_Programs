@@ -1,0 +1,4 @@
+﻿  PowerSet.cpp
+E:\GitHub\CPP_Random_Learning_Programs\PowerSet\PowerSet\PowerSet.cpp(9,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\GitHub\CPP_Random_Learning_Programs\PowerSet\PowerSet\PowerSet.cpp(17,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  PowerSet.vcxproj -> E:\GitHub\CPP_Random_Learning_Programs\PowerSet\x64\Debug\PowerSet.exe
