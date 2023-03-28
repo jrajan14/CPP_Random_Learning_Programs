@@ -1,0 +1,3 @@
+﻿  Game_of_Life.cpp
+E:\GitHub\CPP_Random_Learning_Programs\Game_of_Life\Game_of_Life\Game_of_Life.cpp(88,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Game_of_Life.vcxproj -> E:\GitHub\CPP_Random_Learning_Programs\Game_of_Life\x64\Debug\Game_of_Life.exe
