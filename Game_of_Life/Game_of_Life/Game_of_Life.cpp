@@ -13,8 +13,8 @@ Title: Game Of Life...
 using namespace std;
 
 //DIMENSIONS
-const int ROWS = 50;
-const int COLS = 50;
+const int ROWS = 60;
+const int COLS = 60;
 
 //Number of Generations
 const int GENERATIONS = 1000;
@@ -103,7 +103,7 @@ void main()
         cout << "Generation : " << t << endl;
         printGrid(current);
         updateGrid(current, next);
-        this_thread::sleep_for(chrono::milliseconds(10)); //Time intervel between 2 generations in millisecconds
+        this_thread::sleep_for(chrono::milliseconds(100)); //Time intervel between 2 generations in millisecconds
         cout << "\033[2J\033[1;1H";
         swap(current, next);
     }
