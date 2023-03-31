@@ -1,0 +1,21 @@
+﻿  Rotating_Cube.cpp
+E:\GitHub\CPP_Random_Learning_Programs\Rotating_Cube\Rotating_Cube\Rotating_Cube.cpp(57,21): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+E:\GitHub\CPP_Random_Learning_Programs\Rotating_Cube\Rotating_Cube\Rotating_Cube.cpp(57,24): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+E:\GitHub\CPP_Random_Learning_Programs\Rotating_Cube\Rotating_Cube\Rotating_Cube.cpp(101,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\GitHub\CPP_Random_Learning_Programs\Rotating_Cube\Rotating_Cube\Rotating_Cube.cpp(102,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\GitHub\CPP_Random_Learning_Programs\Rotating_Cube\Rotating_Cube\Rotating_Cube.cpp(103,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\GitHub\CPP_Random_Learning_Programs\Rotating_Cube\Rotating_Cube\Rotating_Cube.cpp(104,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\GitHub\CPP_Random_Learning_Programs\Rotating_Cube\Rotating_Cube\Rotating_Cube.cpp(108,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\GitHub\CPP_Random_Learning_Programs\Rotating_Cube\Rotating_Cube\Rotating_Cube.cpp(109,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\GitHub\CPP_Random_Learning_Programs\Rotating_Cube\Rotating_Cube\Rotating_Cube.cpp(110,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\GitHub\CPP_Random_Learning_Programs\Rotating_Cube\Rotating_Cube\Rotating_Cube.cpp(111,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\GitHub\CPP_Random_Learning_Programs\Rotating_Cube\Rotating_Cube\Rotating_Cube.cpp(115,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\GitHub\CPP_Random_Learning_Programs\Rotating_Cube\Rotating_Cube\Rotating_Cube.cpp(116,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\GitHub\CPP_Random_Learning_Programs\Rotating_Cube\Rotating_Cube\Rotating_Cube.cpp(117,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\GitHub\CPP_Random_Learning_Programs\Rotating_Cube\Rotating_Cube\Rotating_Cube.cpp(118,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\GitHub\CPP_Random_Learning_Programs\Rotating_Cube\Rotating_Cube\Rotating_Cube.cpp(122,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\GitHub\CPP_Random_Learning_Programs\Rotating_Cube\Rotating_Cube\Rotating_Cube.cpp(123,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\GitHub\CPP_Random_Learning_Programs\Rotating_Cube\Rotating_Cube\Rotating_Cube.cpp(124,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\GitHub\CPP_Random_Learning_Programs\Rotating_Cube\Rotating_Cube\Rotating_Cube.cpp(125,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\GitHub\CPP_Random_Learning_Programs\Rotating_Cube\Rotating_Cube\Rotating_Cube.cpp(148,22): warning C4305: '+=': truncation from 'double' to 'float'
+  Rotating_Cube.vcxproj -> E:\GitHub\CPP_Random_Learning_Programs\Rotating_Cube\x64\Debug\Rotating_Cube.exe
