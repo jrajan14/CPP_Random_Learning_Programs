@@ -2,7 +2,7 @@
 C++ Random Learning Programs
 By J RAJAN
 For Learners
-Title: Game Of Life...
+Title: Game Of Life
 */
 
 #include <iostream>
@@ -13,8 +13,8 @@ Title: Game Of Life...
 using namespace std;
 
 //DIMENSIONS
-const int ROWS = 60;
-const int COLS = 60;
+const int ROWS = 100;
+const int COLS = 100;
 
 //Number of Generations
 const int GENERATIONS = 1000;
@@ -104,7 +104,7 @@ void main()
         printGrid(current);
         updateGrid(current, next);
         this_thread::sleep_for(chrono::milliseconds(100)); //Time intervel between 2 generations in millisecconds
-        cout << "\033[2J\033[1;1H";
+        cout << "\033[2J\033[1;1H";                        //Clear Screen / Shift all contents up
         swap(current, next);
     }
 }
