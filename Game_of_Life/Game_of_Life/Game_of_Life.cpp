@@ -13,8 +13,8 @@ Title: Game Of Life
 using namespace std;
 
 //DIMENSIONS
-const int ROWS = 100;
-const int COLS = 100;
+const int ROWS = 60;
+const int COLS = 60;
 
 //Number of Generations
 const int GENERATIONS = 1000;
