@@ -22,5 +22,16 @@ NOTE : This is one of the logics (a simple one) there are other ways too.
 ## Number Swapping
 Swap two integers without using Third variable
 
+## Powerset
+Powerset is a simple program that creates all the sub-sets of a given set (includign NULL set)
+
 ## Prime Number Check
 Check whether a given positive number is Prime or not.
+
+##Three Number Swapping
+Actually 3 numbers interchanging without using a fourth variable.
+The program is simple as well as stupid at the same time.
+However, it can be used in selective circumstances.
+
+##Tic Tac Toe
+The Classic TIC TAC TOE mini game with one of the simplest logic
