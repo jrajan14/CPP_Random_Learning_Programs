@@ -27,6 +27,7 @@ Powerset is a simple program that creates all the sub-sets of a given set (inclu
 
 ## Prime Number Check
 Check whether a given positive number is Prime or not.
+(Negative numbers are NOT considered as Prime or Not Prime)
 
 ## Three Number Swapping
 Actually 3 numbers interchanging without using a fourth variable.
