@@ -14,7 +14,7 @@ void PowerSet(int set[], int n);
 
 void main() 
 {
-    int set[] = {1, 2, 3, 4, 5 };           //Pre-defininh elements. Can be takes as input
+    int set[] = {1, 2, 3, 4, 5};            //Pre-defininh elements. Can be takes as input
     int n = sizeof(set) / sizeof(set[0]);   //Getting number of elements in array
     PowerSet(set, n);                       //Make subsets;
 }
