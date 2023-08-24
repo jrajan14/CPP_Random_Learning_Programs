@@ -35,4 +35,5 @@ The program is simple as well as stupid at the same time.
 However, it can be used in selective circumstances.
 
 ## Tic Tac Toe
-The Classic TIC TAC TOE mini game with one of the simplest logic
+The Classic TIC TAC TOE mini game with one of the simplest logic.
+Have fun marking your X's and O's on the grid and strive to achieve victory in this timeless battle of wits.
